@@ -1,6 +1,6 @@
 # EXP NO:6 C PROGRAM PRINT THE LOWERCASE ENGLISH WORD CORRESPONDING TO THE NUMBER
-# NAME :A PRANEYA
-# REG NO: 212224110045
+# NAME :SWETHA NIVASINI
+# REG NO: 212224040345
 
 Aim:
 To write a C program print the lowercase English word corresponding to the number
