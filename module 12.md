@@ -1,5 +1,5 @@
 # EXP NO 26: C PROGRAM TO DISPLAY STACK ELEMENTS USING LINKED LIST.
-# NAME : SWWETHA NIVASINI
+# NAME : SWETHA NIVASINI
 # REG NO : 212224040345
 Aim: To write a C program to display stack elements using linked list.
 
